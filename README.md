@@ -17,8 +17,8 @@ README.md         # Project documentation
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/abhi-abhi86/face.git
-    cd face
+    git clone https://github.com/abhi-abhi86/fix.git
+    cd fix
     ```
 2. Install dependencies:
     ```bash
